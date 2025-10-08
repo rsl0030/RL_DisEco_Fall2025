@@ -107,3 +107,37 @@ Midterm Exam
     2019: Prevalence = \# infected / \# total host population = 6 / 136 = 0.044 = 4.4%
 
 12. 5400 / 2 = 2700 adults ... 2700 \* 0.4 = 1080 adults immune to PDV. Vaccination coverage necessary = 1 - (1 / R0 ) = 1 - (1 / 3) = 0.667 ... 0.667 \* (5400 – 1080) = **\~2881 seals**
+
+------------------------------------------------------------------------
+
+Worksheet 3: Measures of disease frequency: Prevalence and Incidence
+
+a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. \
+06/12/25: incidence = \# new cases / \# animals at risk = 5 / 14 = **0.357 cases per elk-day**\
+06/14/25: incidence = \# new cases / \# animals at risk = 2 / 11 = **0.182 cases per elk-day**\
+06/15/25: incidence = \# new cases / \# animals at risk = 0 / 8 = **0.000 cases per elk-day\
+**Unit: **cases per elk-day**\
+\
+b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence. \
+06/13/25: prevalence = \# infected / \# total host population = 12 / 56 = 0.214 = **21.4%**\
+06/16/25: prevalence = \# infected / \# total host population = 14 / 56 = 0.250 = **25.0%**\
+Unit: **%**\
+\
+c) On which day is the prevalence same as the incidence (except the units)? \
+06/10: incidence = \# new cases / \# animals at risk = 1 / 14 = 0.071 cases per elk-day\
+prevalence = \# infected / \# total host population = 1 / 56 = 0.018 = 1.8%\
+06/11: incidence = \# new cases / \# animals at risk = 4 / 14 = 0.286 cases per elk-day\
+prevalence = \# infected / \# total host population = 5 / 56 = 0.089 = 8.9%\
+**06/12: incidence = 0.357 cases per elk-day\
+prevalence = \# infected / \# total host population = 10 / 56 = 0.179 = 17.9%**\
+06/13: incidence = \# new cases / \# animals at risk = 2 / 14 = 0.143 cases per elk-day\
+prevalence = 21.4%\
+06/14: incidence = 0.182 cases per elk-day\
+prevalence = \# infected / \# total host population = 14 / 56 = 0.250 = 25.0%\
+06/15: incidence = 0.000 cases per elk-day\
+prevalence = \# infected / \# total host population = 14 / 56 = 0.250 = 25.0%\
+06/16: incidence = \# new cases / \# animals at risk = 0 / 5 = 0.000 cases per elk-day\
+prevalence = 25.0%\
+\
+d) On which day is the incidence lowest? \
+**06/15/25 and 06/16/25 - both are 0.000 cases per elk-day**\
