@@ -25,3 +25,85 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ```
 
 ![This image illustrates the "epidemiological triad."](images/clipboard-4022709011.png)
+
+------------------------------------------------------------------------
+
+Worksheet 2: Sample size for disease detection
+
+![](Downloads/ss_table.png)
+
+1.  Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%. **Sample size = 59 deer**
+2.  Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+    1.  95% confidence in detecting a disease at 1% prevalence in a large population. **Sample size = 290 (greater than scenario #2, which has a higher confidence level and prevalence)**
+    2.  99% confidence in detecting a disease at 2% prevalence in a large population. **Sample size = 224 (less than scenario #1, which has a lower confidence level and prevalence)**
+3.  You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \_\_\_ (\<, =, \>) \_\_\_%. **Based on this finding, I am 95% confident that the prevalence of exposure to EHD in this facility is \<1% (3/n = 3/300 = 0.01).**
+
+------------------------------------------------------------------------
+
+Midterm Exam
+
+1.  a\. False – while microparasites do have a shorter generation time, they do reproduce within the host.
+
+    b\. False – while disease models can’t provide a true prediction of how a disease will spread in a real-world host population with certainty, they can be used to formulate our thinking about complex disease systems and as a decision-making tool.
+
+    c\. False – contagious diseases are infectious diseases with animal to animal transmission; this disease appears to be infectious, which is one that is caused by pathogens that are transmissible (note: not all infectious diseases are contagious).
+
+    d\. False – while Epizootic Hemorrhagic Disease (EHD) is most severe in the northern latitudes of the U.S. (sporadic occurrence and minimal population immunity), endemic EHD in portions of the southern U.S. typically see low mortality.
+
+    e\. True (white-tailed deer with brain worms would be considered infected, and would also be considered diseased in the infrequent instances of exhibiting symptoms. When the worm eggs spread via feces, the deer would also be considered infectious).
+
+    f\. True.
+
+2.  Prevalence and incidence are both measures of frequency of occurrence. However, prevalence is the number affected as a proportion of the total population, whereas incidence is the number of new cases of disease occurring during a fixed period of time, divided by the number of animals at risk of developing the disease during that time. While prevalence is a “snapshot” of how many animals have a disease at a point in time, incidence is a measure of risk, focusing on new cases of a disease.
+
+3.  a\. 2
+
+    b\. 7
+
+    c\. 3
+
+    d\. 5
+
+    e\. 1
+
+    f\. 4
+
+4.  dead-end hosts
+
+5.  a\. γ = 1 / avg. infectious period = 1 / 8 = **0.125 per day**
+
+    b\. γ = 1 / avg. infectious period = 1 / 14 = **0.071 per day**
+
+    c\. R0 = β / γ ... so, β = R0 \* γ = 15 \* 0.125 = **1.875 per day (Measles)**\
+    R0 = β / γ ... so, β = R0 \* γ = 17 \* 0.071 = **1.207 per day (rotavirus)**
+
+    d\. Reff = R0 \* ( S / N ) = 1.875 \* 0.2 = **0.375**
+
+6.  1\. Infected but not diseased – this is possible, as a host can be infected without disease – an example is brain worm in whitetail deer in the eastern US (the parasite rarely causes disease, but the deer is infected nonetheless).
+
+    2\. Infected and diseased – this is possible, as a host can be infected and diseased – an example is mpox (a human is infected with the virus and exhibits symptoms such as rash or fever).
+
+    3\. Not infected but diseased – this is possible, as in the case of a human carrying a genetic disease (a human with cystic fibrosis is diseased but by no externally-derived infection).
+
+7.  The incubation period is regarded as the period from the point of infection to the exhibiting of clinical signs/symptoms. For Campylobacteriosis, it appears the incubation period may be as short as 1-2 days, since cases were seen right around the precise dates that Christmas work parties would be held. For Norovirus gastroenteritis, it appears that cases were seen around 24 hours after the Christmas party, suggesting an incubation period of approximately 24 hours.
+
+8.  This extraordinary mortality event was determined to have been caused by hemorrhagic septicemia. It was caused by a bacteria, Pasteurella multocida, that is well-known to exist in the presence of these animals. Upon further investigation and modeling, it was realized that the mortality event was caused by separate and independently harmless circumstances. A combination of the congregation of pregnant Saiga antelope (in relatively high stress/pressure)(notably similar in discomfort to that of shipping fever) and unusually high relative humidity and temperature leading up to the event made the bacteria pathogenic. Unfortunately, it is unreasonable to expect to be able to control/eliminate a bacteria that is a common inhabitant of the species’ nasal passages, or to capture and vaccinate such a large/wild population. Broader conservation strategies might include allowing the species the ability to leverage its rapid reproduction capabilities, reducing other threats like poaching (to reduce stress), and/or managing the vaccination of livestock that interact with Saiga antelope.
+
+9.  As detailed in our lecture, this perspective of human actions driving the ecological issue of wildlife disease seems well-founded, and I agree with the notion. One example highlighted in the lecture is the fact that human activity is interfering with wildlife habitat to such an extent that the ability of wildlife population repair is being impacted. Second, it was indicated that the collective toll from disease has inhibited conservation efforts for many varieties of species. Both of these considerations point to a clear ecological connection between wildlife disease and human actions.
+
+10. R0 is the basic reproduction number – the average number of new infections caused by a single infected individual in a fully susceptible population. It is a metric of the potential transmissibility of an infectious agent. In the context of real-world utility of R0, individual variation in infectiousness has been widely documented, and underlying heterogeneity matters. However, a simplistic interpretation of R0 is that the infection will continue to spread in a host population if R0 is greater than 1, but will fade out if R0 is less than 1. \
+    For the following scenario, 1 case infects 1, 1 case infects 3, 1 case infects 2, and 1 case infects 0. (1 + 3 + 2 + 0) / 4 = 1.5 ... therefore, R0 = 1.5, indicating the infection will continue to spread in the host population.
+
+11. a\. 2015: Incidence = \# new cases / \# animals at risk = 4 / (133 – 0) = 0.030 cases per turtle-year\
+    2016: Incidence = \# new cases / \# animals at risk = 5 / (125 – 2) = 0.041 cases per turtle-year\
+    **2017: Incidence = \# new cases / \# animals at risk = 8 / (112 – 4) = 0.074 cases per turtle-year (highest year)**\
+    2018: Incidence = \# new cases / \# animals at risk = 4 / (145 – 5) = 0.029 cases per turtle-year\
+    2019: Incidence = \# new cases / \# animals at risk = 2 / (136 – 4) = 0.015 cases per turtle-year
+
+    b\. **2015: Prevalence = \# infected / \# total host population = 4 / 133 = 0.030 = 3.0% (lowest)**\
+    2016: Prevalence = \# infected / \# total host population = 7 / 125 = 0.056 = 5.6%\
+    **2017: Prevalence = \# infected / \# total host population = 12 / 112 = 0.107 = 10.7% (highest)**\
+    2018: Prevalence = \# infected / \# total host population = 9 / 145 = 0.062 = 6.2%\
+    2019: Prevalence = \# infected / \# total host population = 6 / 136 = 0.044 = 4.4%
+
+12. 5400 / 2 = 2700 adults ... 2700 \* 0.4 = 1080 adults immune to PDV. Vaccination coverage necessary = 1 - (1 / R0 ) = 1 - (1 / 3) = 0.667 ... 0.667 \* (5400 – 1080) = **\~2881 seals**
