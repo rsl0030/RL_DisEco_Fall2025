@@ -112,18 +112,18 @@ Midterm Exam
 
 Worksheet 3: Measures of disease frequency: Prevalence and Incidence
 
-a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence. \
+a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.\
 06/12/25: incidence = \# new cases / \# animals at risk = 5 / 14 = **0.357 cases per elk-day**\
 06/14/25: incidence = \# new cases / \# animals at risk = 2 / 11 = **0.182 cases per elk-day**\
 06/15/25: incidence = \# new cases / \# animals at risk = 0 / 8 = **0.000 cases per elk-day\
 **Unit: **cases per elk-day**\
 \
-b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence. \
+b) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence.\
 06/13/25: prevalence = \# infected / \# total host population = 12 / 56 = 0.214 = **21.4%**\
 06/16/25: prevalence = \# infected / \# total host population = 14 / 56 = 0.250 = **25.0%**\
 Unit: **%**\
 \
-c) On which day is the prevalence same as the incidence (except the units)? \
+c) On which day is the prevalence same as the incidence (except the units)?\
 06/10: incidence = \# new cases / \# animals at risk = 1 / 14 = 0.071 cases per elk-day\
 prevalence = \# infected / \# total host population = 1 / 56 = 0.018 = 1.8%\
 06/11: incidence = \# new cases / \# animals at risk = 4 / 14 = 0.286 cases per elk-day\
@@ -139,5 +139,21 @@ prevalence = \# infected / \# total host population = 14 / 56 = 0.250 = 25.0%\
 06/16: incidence = \# new cases / \# animals at risk = 0 / 5 = 0.000 cases per elk-day\
 prevalence = 25.0%\
 \
-d) On which day is the incidence lowest? \
+d) On which day is the incidence lowest?\
 **06/15/25 and 06/16/25 - both are 0.000 cases per elk-day**\
+
+------------------------------------------------------------------------
+
+Worksheet 4: Multihost pathogens, Spillover
+
+1\. MERS-CoV is primarily maintained in human populations. **Incorrect – MERS-CoV is primarily maintained in camel populations.**
+
+2\. Camels serve as the main animal reservoir for MERS-CoV. **Correct.**
+
+3\. Humans are dead-end hosts for MERS-CoV. **Incorrect – limited human-to-human transmission is indicated to occur after close contact, which suggests humans are not dead-end hosts for MERS-CoV.**
+
+4\. The estimated case fatality rate for human MERS-CoV infections is approximately 65%. **Incorrect – the case fatality rate for human MERS-CoV infections is noted to be approximately 35%.**
+
+5\. The epidemic curve shows a point source outbreak. **Correct – this is reflected in the rapid increase of cases, followed by a gradual decrease over time.**
+
+6\. Global MERS cases have declined sharply since 2019. Why do you think this decline occurred? Discuss possible ecological, epidemiological, and behavioral factors that may have contributed to this trend. **There are a number of possible factors that may have contributed to this sharp decline in global cases. A possible epidemiological factor may relate to non-persistence, in that perhaps those who survive got immunity from the virus. A behavioral factor that may have contributed to this pertains to public health measures guiding human behavior, perhaps restricting/reducing contact.**
