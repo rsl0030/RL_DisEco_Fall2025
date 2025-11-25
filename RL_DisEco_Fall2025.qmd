@@ -200,3 +200,62 @@ Langya henipavirus: Langya henipavirus (LayV) is an emerging zoonotic virus firs
 Worksheet 8: Raccoon roundworm (Baylisascaris procyonis)
 
 **This data, derived from an examination of raccoon roundworm (B. procyonis), shares insight into prevalence patterns and allows for comparisons between groups. For example, when comparing prevalence of B. procyonis between male and female raccoons, QPweb helps find that females demonstrate a prevalence of 64.9% and males demonstrate a prevalence of 37.7%—with a p-value of 0.0087, one can state that this difference is statistically significant. Another meaningful comparison is seen when comparing prevalence of B. procyonis with region. The north has a prevalence of 28.6%, central has a prevalence of 64.3%, and the south has a prevalence of 62.8%—and with a p-value of 0.0016, this difference is also noted to be statistically significant. Overall, for the entire dataset, the prevalence of B. procyonis is calculated at 47.2%, with a lower CL of 37.7% and an upper CL of 56.8%. When analyzing this information, there are several observations that can be made. One is that B. procyonis was more prevalent in female raccoons, and another is that the prevalence was notably lower in the north region, when compared with the central and south regions.**
+
+------------------------------------------------------------------------
+
+Term Project: Memo (Marburg Virus Disease)
+
+**MEMORANDUM**\
+\
+To:		Washington State Department of Health\
+From:	Rowan Lucey – Disease Ecology (FORY 7200: Fall 2025)\
+Date:	November 24, 2025\
+Subject:	Marburg Virus Disease\
+\
+OVERVIEW\
+\
+Marburg Virus Disease (MVD) is a rare disease, but it has the potential to cause outbreaks leading to high fatality rates. The causative agents of MVD are Marburg virus (MARV) and Ravn virus (RAVV), coming from the species Orthomarburgvirus marburgense (World Health Organization, 2025). The natural reservoir is the fruit bat, Rousettus aegyptiacus—demonstrating the species’ role in MVD’s maintenance and spread, fruit bats have a subclinical infection with MARV, and shed the virus to humans. Transmission in this manner specifically occurs through contact with fruit bat excreta, but can also transmit through contact with the bodily fluids of an infected individual, or exposure in laboratory or healthcare settings (Soni & Rathish, 2025). The initial transmission from bats to humans, demonstrating the spillover infection, occurs from a human’s prolonged exposure within caves inhabited by fruit bats. Transmission between humans occurs when infected blood, secretions, organs, or other bodily fluids comes into direct contact with an uninfected individual’s broken skin or mucous membranes in the eyes, nose, or mouth. It is important to note that while the disease cannot be transmitted before a human has symptoms, the human remains infectious as long as the virus remains in their blood (World Health Organization, 2025). The disease is named for the German city in which the first known cases came about in 1967, when scientists became ill after handling monkeys brought from Africa. Indeed, Sub-Saharan Africa is where cases of MVD have most commonly been found (CDC, 2025). The incubation period—the length of time from infection to the emergence of symptoms—can be as brief as 48 hours, and as long as 21 days. Clinical presentation of the disease depends, in part, on the time elapsed since the onset of symptoms. Within the first week, symptoms may include:
+
+-   High fever
+
+<!-- -->
+
+-   Severe headache
+
+<!-- -->
+
+-   Muscle pains and cramping
+
+<!-- -->
+
+-   Severe diarrhea, nausea, and vomiting
+
+<!-- -->
+
+-   Non-itchy rashes
+
+To follow, symptoms often include the presence of blood—for example, blood may be found within vomit or feces, or discharging from the nose, gums, or vagina. Other symptoms reported at this stage include confusion, irritability, and orchitis. In instances of fatal cases, death typically occurs following severe blood loss, around 8 or 9 days after the emergence of symptoms (World Health Organization, 2025).\
+\
+Due to its strong ability to transmit between humans, and the potential for high fatality rates from an outbreak, the implications of an imported case of MVD in the United States poses a threat worthy of education and surveillance. In the event of a case being detected within the United States, the potential for the disease to spread steadily among humans presents a notable public health risk. The pathogen might emerge in a non-endemic region like the United States due to an infected person returning from international travel to a country like Rwanda, for example, where a significant outbreak occurred in 2024. Perhaps this individual was working in caves and came into contact with bat feces tainted with the virus, or they had contact with the bodily fluids of an infected person when visiting a hospital. As this person returns to the United States, it is likely that adequate time has passed for symptoms to emerge, at which point this infected individual may infect others. Perhaps they are admitted to a hospital to address their symptoms of a high fever and severe abdominal cramping—and without adequate personal protective equipment or isolation, healthcare workers may be exposed to the pathogen, and so continues the path of transmission.\
+\
+RECOMMENDATIONS\
+\
+While the current risk of infection with Marburg Virus Disease in the United States is considered low, the global case fatality rate has an average of approximately 50%, with an outbreak-specific high of 88% (World Health Organization, 2025)—therefore, this memorandum serves as an informational alert to promote community engagement. There are several recommended steps for public health prevention of, and response to, Marburg Virus Disease. Education of travelers and healthcare providers will be essential to preventing the spread of the disease. When effectively utilized, education can ensure that awareness of the disease and its symptoms is present, especially in higher risk settings such as hospitals and broader endemic regions. The safe management of suspected cases will also benefit from such education—in a hospital setting, for example, infection control is imperative. Due to the risk of human-to-human transmission in a healthcare setting, the ability to recognize MVD’s symptoms can prevent further infection. Close physical contact with infected patients should be avoided when possible, and appropriate isolation protocol should be followed for those with suspected or confirmed Marburg Virus Disease. However, when contact is possible or necessary, the use of personal protective equipment is essential in reducing the likelihood of transmission from the patient’s tainted bodily fluids.\
+\
+Wherever possible, the improvement of disease surveillance systems is another recommended opportunity for outbreak prevention with Marburg Virus Disease. With stronger surveillance capabilities—including the use of data to visualize trends—more precise attention can be committed to monitoring case emergence, tracking the overall public health threat, and then responding with appropriate action to suppress further transmission.\
+
+REFERENCES\
+\
+Soni, S., & Rathish, B. (2025). Marburg Virus Disease. *StatPearls*. https://www.ncbi.nlm.nih.gov/\
+books/NBK578176/\
+\
+U.S. Centers for Disease Control and Prevention (CDC). (2025, September 24). *About Marburg*.\
+Retrieved November 13, 2025, from https://www.cdc.gov/marburg/about/index.html\
+\
+Wirsiy, F. S., Nkfusai, C. N., & Bain, L. E. (2023). The SPIN framework to control and prevent\
+the Marburg virus disease outbreak in Equatorial Guinea. *Pan African Medical Journal,\
+44*(110). https://doi.org/10.11604/pamj.2023.44.110.39368\
+\
+World Health Organization. (2025, January 20). *Marburg virus disease*. Retrieved November\
+14, 2025, from https://www.who.int/news-room/fact-sheets/detail/marburg-virus-\
+disease
