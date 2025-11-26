@@ -207,10 +207,10 @@ Term Project: Memo (Marburg Virus Disease)
 
 **MEMORANDUM**\
 \
-To:		Washington State Department of Health\
-From:	Rowan Lucey – Disease Ecology (FORY 7200: Fall 2025)\
-Date:	November 24, 2025\
-Subject:	Marburg Virus Disease\
+To: Washington State Department of Health\
+From: Rowan Lucey – Disease Ecology (FORY 7200: Fall 2025)\
+Date: November 24, 2025\
+Subject: Marburg Virus Disease\
 \
 OVERVIEW\
 \
@@ -259,3 +259,27 @@ the Marburg virus disease outbreak in Equatorial Guinea. *Pan African Medical Jo
 World Health Organization. (2025, January 20). *Marburg virus disease*. Retrieved November\
 14, 2025, from https://www.who.int/news-room/fact-sheets/detail/marburg-virus-\
 disease
+
+------------------------------------------------------------------------
+
+Worksheet 9
+
+1\. In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in the United States. What specific human behaviors contributed to the zoonotic spread of Salmonella? In your response, identify at least three practices by backyard poultry owners that increased the risk of Salmonella transmission, and briefly explain why these behaviors facilitated human infection. **One specific human behavior that contributed to the zoonotic spread of Salmonella was allowing children to be near the birds. As this demographic is more likely to engage with the birds, it creates an opportunity for direct contact and transmission. Another practice by backyard poultry owners that increased the risk was infrequent and/or inconsistent sanitation practices—this allowed for contaminated surfaces, soil, footwear, etc., to pass on the bacteria to the next individual to come into contact with it. Proper hygiene and sanitation practices would help to interfere with transmission via this pathway. A third behavior simply pertains to how flock owners view/perceive the birds. While they may implement stringent working protocol, it wasn’t uncommon for owners to promptly proceed in cuddling with the birds, etc., therefore endangering the biosecurity that was diligently put in place.**
+
+\
+2. Tall fescue grass is commonly infected with a fungal endophyte (Epichloë coenophiala) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.\
+a. What advantage does tall fescue gain from being infected with a fungal endophyte? **Tall fescue grass infected with a fungal endophyte gains higher tolerance to stressors like drought and grazing. This increased tolerance allows for healthier, quality grass.**
+
+b\. What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems? **Some of the key environmental and ecological factors that drive the occurrence and severity of fescue toxicosis in grazing systems include: (1) temperature and drought stress – these increase alkaloid production, (2) soil fertility and microbial communities – these affect endophyte expression, and (3) grazing management – this influences toxin accumulation and disease risk.**
+
+c\. What are the key clinical signs of fescue toxicity in cattle? **Key clinical signs of fescue toxicity in cattle include weight loss, rough and discolored coats, and poor performance.**
+
+------------------------------------------------------------------------
+
+Worksheet 10
+
+1\. What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF? **The routes of transmission for African Swine Fever include: (1) vector born routes (e.g., tick bites), (2) direct contact (e.g., with an infected pig’s blood, saliva, or feces), (3) indirect contact (e.g., contaminated feed, transport trucks, equipment, workers’ clothing), (4) environmental persistence (ASF can survive for months in carcasses and pork products), and (5) human factors (it is key to note that humans act as mechanical vectors, not biological hosts). Humans play a significant role in the spread and transmission of ASF. Examples include their movement of pigs and pork products across borders, feeding practices (e.g., swill feeding), illegal trade (e.g., wild boar meat and untreated pork), poor surveillance (e.g., delayed detection in smallholder systems), and socioeconomic aspects (poverty and limited compensation discourage the act of reporting).**
+
+2\. Describe how co-infection with Koala retrovirus (KoRV) affects the severity, progression, and management of Chlamydia in koalas. **KoRV causes an acquired immunodeficiency virus. It suppresses the immune system of koalas, which makes chlamydial infections more prevalent and symptomatically worse for the koalas. Koalas with KoRV exhibit greater bacterial loads due to their reduced immune response, and further, coinfection of the two drives higher mortality and infertility rates.**
+
+3\. Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging threat to wild snake populations in North America. What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)? **As highlighted in the lecture, a diagnostic challenge pertains to false negatives in qPCR testing, the DNA test checking for fungus. Surveillance of SFD can also be challenged by the fact that symptom onset may be delayed if the snakes remain inactive, such as during brumation, or the symptoms may be too subtle for accurate detection. Management of SFD is challenged, in part, by the fact that options for treatment are rather limited or impractical, especially in the case of wild snakes.**
